@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "tripo_face_rig_wizard"
+version = "0.2.1"
+name = "Tripo Face Rig Wizard"
+tagline = "Guided facial landmarks and ARKit rig generation"
+maintainer = "Local pipeline"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Read and write guides, Blend files, and rendered reviews"

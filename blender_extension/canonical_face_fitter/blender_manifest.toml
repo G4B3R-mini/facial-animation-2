@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "canonical_face_fitter"
+version = "0.3.0"
+name = "Canonical Face Fitter"
+tagline = "Fit a reusable ARKit face without cutting or weight painting"
+maintainer = "Local pipeline"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Read the local canonical model and create non-destructive fit previews"

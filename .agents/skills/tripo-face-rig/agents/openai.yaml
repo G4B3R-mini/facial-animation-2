@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tripo Face Rig"
+  short_description: "Guide a character from head rig to Unity scene"
+  default_prompt: "Use $tripo-face-rig to take my prepared character through a speaking Blender preview, body attachment handoff, and Unity scene setup."
